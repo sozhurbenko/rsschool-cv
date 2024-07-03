@@ -1,7 +1,9 @@
-name: **SERGEI ZHURBENKO**
+name: **SERGEI ZHURBENKO**  
+
 email: _mirage.sin@gmail.com_
 
-**SUMMARY**
+**SUMMARY**  
+
 _I want to take part in interesting projects and develop technical skills. I'm DevOps Engineer with more then 5 years of experience in administration, deployment, and release management._
 
 **Technical Skills:**
@@ -19,14 +21,21 @@ function multiply(a, b) {
 }
 ```
 
-**WORK EXPERIENCE**
+**WORK EXPERIENCE**  
+
 _I worked with bank products of function acquiring, chat and crm systems._
 
-**EDUCATION**
-  Name of the Education Establishment:   _Bauman Moscow State Technical University_
-  Faculty:                                                          _Informatics and Control Systems_
-  Degree (Diploma):                                       _Engineer in Information Systems and Technologies_
-  Specialty:                                                       _Information Systems and Technologies_
+**EDUCATION**  
+
+  Name of the Education Establishment:   _Bauman Moscow State Technical University_  
+  
+  Faculty:                                                          _Informatics and Control Systems_  
+  
+  Degree (Diploma):                                       _Engineer in Information Systems and Technologies_  
+  
+  Specialty:                                                       _Information Systems and Technologies_  
+  
+
 
 **Trainings/Courses:**
   * DB2 9.7 Bootcamp and Oracle to DB2 9.7 Migration Clinic for Business Partners
